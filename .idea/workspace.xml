@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f12db0a-b715-44f2-af3d-d5eef2ebdf8b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lottery.js" afterPath="$PROJECT_DIR$/lottery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lottery/base.js" afterPath="$PROJECT_DIR$/lottery/base.js" />
     </list>
     <ignored path="ES6.iws" />
@@ -48,7 +49,7 @@
       <file leaf-file-name="interface.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lottery/interface.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-534">
+            <state relative-caret-position="260">
               <caret line="13" column="41" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
@@ -65,17 +66,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lottery/base.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="207" column="81" selection-start-line="207" selection-start-column="81" selection-end-line="207" selection-end-column="81" />
+            <state relative-caret-position="56">
+              <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
               <folding>
-                <marker date="1554798136700" expanded="true" signature="4767:5021" ph="..." />
-                <marker date="1554798136700" expanded="true" signature="4801:5021" ph="..." />
-                <marker date="1554798136700" expanded="true" signature="4822:5021" ph="..." />
-                <marker date="1554798136700" expanded="true" signature="4891:5021" ph="..." />
-                <marker date="1554798136700" expanded="true" signature="4959:5021" ph="..." />
+                <marker date="1556440601493" expanded="true" signature="4767:5021" ph="..." />
+                <marker date="1556440601493" expanded="true" signature="4801:5021" ph="..." />
+                <marker date="1556440601493" expanded="true" signature="4822:5021" ph="..." />
+                <marker date="1556440601493" expanded="true" signature="4891:5021" ph="..." />
+                <marker date="1556440601493" expanded="true" signature="4959:5021" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lottery.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lottery.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lottery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -121,11 +122,11 @@
         <option value="$PROJECT_DIR$/lottery/lottery.js" />
         <option value="$PROJECT_DIR$/lottory.js" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/lottery.js" />
         <option value="$PROJECT_DIR$/lottery/timer.js" />
         <option value="$PROJECT_DIR$/lottery/interface.js" />
         <option value="$PROJECT_DIR$/lottery/calculate.js" />
         <option value="$PROJECT_DIR$/lottery/base.js" />
+        <option value="$PROJECT_DIR$/lottery.js" />
       </list>
     </option>
   </component>
@@ -136,10 +137,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="156" />
-    <option name="width" value="1112" />
-    <option name="height" value="836" />
+    <option name="x" value="526" />
+    <option name="y" value="14" />
+    <option name="width" value="1405" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -251,14 +252,15 @@
       <updated>1554694485632</updated>
       <workItem from="1554694486875" duration="11278000" />
       <workItem from="1554772701465" duration="12925000" />
+      <workItem from="1556437742687" duration="3529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24203000" />
+    <option name="totallyTimeSpent" value="27732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="156" width="1112" height="836" extended-state="0" />
+    <frame x="526" y="14" width="1405" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24941176" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -305,6 +307,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lottery/calculate.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery/interface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/REANME.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1556440601493" expanded="true" signature="4767:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4801:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4822:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4891:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4959:5021" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery/calculate.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -332,11 +398,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1554798136700" expanded="true" signature="4767:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4801:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4822:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4891:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4959:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4767:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4801:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4822:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4891:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4959:5021" ph="..." />
           </folding>
         </state>
       </provider>
@@ -377,16 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lottery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lottery/calculate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -397,7 +453,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lottery/interface.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-534">
+        <state relative-caret-position="260">
           <caret line="13" column="41" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
@@ -413,14 +469,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lottery/base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="207" column="81" selection-start-line="207" selection-start-column="81" selection-end-line="207" selection-end-column="81" />
+        <state relative-caret-position="56">
+          <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
           <folding>
-            <marker date="1554798136700" expanded="true" signature="4767:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4801:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4822:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4891:5021" ph="..." />
-            <marker date="1554798136700" expanded="true" signature="4959:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4767:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4801:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4822:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4891:5021" ph="..." />
+            <marker date="1556440601493" expanded="true" signature="4959:5021" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lottery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>

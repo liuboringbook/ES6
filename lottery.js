@@ -1,6 +1,8 @@
-import './lottery/base';
-import './lottery/timer'
-import './lottery/calculate'
-import './lottery/interface'
+import 'babel-polyfill';
+import Base from './lottery/base';
+import Timer from './lottery/timer'
+import Calculate from './lottery/calculate'
+import Interface from './lottery/interface'
+import $ from 'jquery';
 
 
